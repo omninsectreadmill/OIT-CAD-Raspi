@@ -1,4 +1,4 @@
-# omninsectreadmill-CAD-Raspi
+# OmnInsecTreadmill-CAD-Raspi
 CAD files and Raspberry Pi code for an Omnidirectional insect treadmill.  
 
 A MEng Bioengineering Y3 Group Research Project,  
